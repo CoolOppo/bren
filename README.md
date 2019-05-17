@@ -4,3 +4,8 @@ bren is a bulk renamer inspired by [ranger](https://github.com/ranger/ranger/wik
 
 ## Alpha
 bren is in early stages and might destroy all your filenames.
+
+## Installing
+```
+cargo install bren
+```
