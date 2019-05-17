@@ -15,8 +15,8 @@ license = "MIT"
 maintenance = { status = "as-is" }
 
 [dependencies]
-tempfile = "3.0.7"
-ignore = "0.4.7"
-rayon = "1.0.3"
 crossbeam = "0.7.1"
+ignore = "0.4.7"
 parking_lot = "0.8.0"
+rayon = "1.0.3"
+tempfile = "3.0.7"
