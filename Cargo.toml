@@ -5,6 +5,7 @@ authors = ["CoolOppo <CoolOppo@users.noreply.github.com>"]
 edition = "2018"
 homepage = "https://cocks.website"
 repository = "https://github.com/CoolOppo/bren"
+description = "Bulk rename files with your text editor, like ranger and qmv"
 
 readme = "README.md"
 keywords = ["rename", "bulk", "batch"]
