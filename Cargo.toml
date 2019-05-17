@@ -1,0 +1,22 @@
+[package]
+name = "bren"
+version = "0.1.0"
+authors = ["CoolOppo <CoolOppo@users.noreply.github.com>"]
+edition = "2018"
+homepage = "https://cocks.website"
+repository = "https://github.com/CoolOppo/bren"
+
+readme = "README.md"
+keywords = ["gif"]
+categories = ["graphics", "multimedia::encoding", "multimedia::images"]
+license = "MIT"
+
+[badges]
+maintenance = { status = "as-is" }
+
+[dependencies]
+tempfile = "3.0.7"
+ignore = "0.4.7"
+rayon = "1.0.3"
+crossbeam = "0.7.1"
+parking_lot = "0.8.0"
